@@ -9,6 +9,7 @@
   "author": "Jeshan",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "get-all-country-info": "^1.1.2"
   }
 }
